@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Inside the Orion Nebula](https://apod.nasa.gov/apod/image/1910/M42Detailed_DrudisGoldman_960.jpg)
